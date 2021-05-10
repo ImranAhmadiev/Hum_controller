@@ -1,1 +1,15 @@
-"# Hum_controller" 
+# Humidity controller
+## Контроллер влажности почвы
+
+Данный прибор регистрирует влажность почвы и отображает ее на веб-сервере.
+## Компоненты:
+- Плата NodeMCU (ESP8266)
+- Емкостной датчик влажности почвы
+- Светодиод 
+- Резистор 150 Ом
+- Комплект проводов
+
+![Build Status](https://sun9-55.userapi.com/impg/LiuvweYOT1I4UCWQZN0kSMVYGKQunZZI7pp5Mw/wno_BdLPt80.jpg?size=900x1600&quality=96&sign=80de46360e87d290a4648d03215b1df5&type=album)
+![Build Status](https://sun9-42.userapi.com/impg/FUWboN_avDpH4OLwXw9oVw0Fa3pWYP_GlyqkPQ/vyhRKM7XxZQ.jpg?size=900x1600&quality=96&sign=921e493895049bec24c4066e87ad0de7&type=album)
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
